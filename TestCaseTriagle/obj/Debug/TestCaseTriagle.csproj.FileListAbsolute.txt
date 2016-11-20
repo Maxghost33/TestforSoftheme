@@ -1,0 +1,6 @@
+D:\Project C#\TestCaseTriagle\TestCaseTriagle\bin\Debug\TestCaseTriagle.exe.config
+D:\Project C#\TestCaseTriagle\TestCaseTriagle\bin\Debug\TestCaseTriagle.exe
+D:\Project C#\TestCaseTriagle\TestCaseTriagle\bin\Debug\TestCaseTriagle.pdb
+D:\Project C#\TestCaseTriagle\TestCaseTriagle\obj\Debug\TestCaseTriagle.csprojResolveAssemblyReference.cache
+D:\Project C#\TestCaseTriagle\TestCaseTriagle\obj\Debug\TestCaseTriagle.exe
+D:\Project C#\TestCaseTriagle\TestCaseTriagle\obj\Debug\TestCaseTriagle.pdb
